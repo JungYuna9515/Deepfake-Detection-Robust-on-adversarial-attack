@@ -73,3 +73,9 @@ python deepfake_detector/pgd_dfdetector.py
 --augs strong
 --epochs 50
 ```
+
+## 참고자료
+- https://github.com/CatoGit/Comparing-the-Performance-of-Deepfake-Detection-Methods-on-Benchmark-Datasets
+- https://github.com/ApGa/adversarial_deepfakes
+- Deepfake Forensics via an Adversarial Game
+- Adversarial Perturbations Fool DeepFake Detectors!
